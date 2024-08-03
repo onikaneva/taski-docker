@@ -1,3 +1,4 @@
+"""Конфигурационный файл для django приложения."""
 import os
 from pathlib import Path
 
